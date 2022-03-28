@@ -3,6 +3,7 @@ Lista zadań 3
 
 Lista 3
 Zadanie nr 1 [4pkt]
+
 Warunki wstępne: konto na Githubie, Python oraz edytor kodu.
 Utwórz nowy projekt pythonowy w edytorze kodu, który posiadasz. Utwórz w
 nim wirtualne środowisko. Zainstaluj framework Flask. Utwórz prostą aplikację
