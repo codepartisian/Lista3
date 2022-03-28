@@ -14,13 +14,6 @@ uruchomić aplikację.
 Rozwiązanie zadania powinno znaleźć się w Githubie w publicznym
 repozytorium. Link do repozytorium przesłany na Moodle. 
 
-W terminalu należy wpisać komendę 
-pip install flask
+W branchu jest push o nazwie TEST, który jest odpowiedzią na zadanie.
 
-Aby zobaczyć wgrane paczki należy wpisać w terminalu
-pip list lub pip freeze
-
-Aby sprawdzić wersję pip należy wpisać w terminalu
-pip --version
-
-Aby uruchomić aplikację należy kod wkleić do main.py i zrobić Run
+Aplikacja wyświetla "Hello world" oraz printuje zainstalowane paczki.
